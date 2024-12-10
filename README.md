@@ -1,2 +1,4 @@
 # dunmeshi-recipes
-recipes website project for dungeon meshi
+HTML recipes website project for Dungeon Meshi, built for the Odin Project's HTML Foundations section.
+
+
